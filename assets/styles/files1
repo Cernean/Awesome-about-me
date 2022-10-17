@@ -1,0 +1,11 @@
+h1{
+        color: blue;
+        font-size: x-large;
+    } 
+    h2{
+        color: red;
+    }
+    h2{
+        color: darkorchid;
+        font-size: xx-large;
+    }
